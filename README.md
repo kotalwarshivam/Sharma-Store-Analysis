@@ -1,8 +1,5 @@
-I'm thrilled to share that I have just completed my Second Excel data analyst project, creating an insightful dashboard of sharma store ! 🚀
 
-Working on this project has been an incredible journey, transforming raw data into actionable insights that can drive decision-making and business growth. I leveraged excel tool ,power query to visualize sharma store, uncovering trends and patterns that were previously hidden in plain sight.
-
-🔍 Key Highlights:
+Key Highlights:
 - **Interactive Dashboards:** Created dynamic, interactive dashboards that offer a comprehensive view of sharma sales performance.
 - **Power Query:** Streamlined data cleaning and transformation processes to ensure accuracy and consistency.
 - **Data Modeling:** Designed robust data models to structure and connect various data sources, ensuring seamless integration and analysis.
